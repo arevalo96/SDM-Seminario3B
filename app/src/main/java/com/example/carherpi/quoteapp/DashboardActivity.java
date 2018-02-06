@@ -22,8 +22,13 @@ public class DashboardActivity extends AppCompatActivity {
     }
 
     public void clickAbout(View view) {
-        Intent intent = new Intent(this, AboutActivity.class);
-        startActivity(intent);
+        Intent aboutIntent = new Intent(this, AboutActivity.class);
+        startActivity(aboutIntent);
+    }
+
+    public void clickSettings(View view) {
+        Intent settingsIntent = new Intent(this, SettingsActivity.class);
+        startActivity(settingsIntent);
     }
 
 
