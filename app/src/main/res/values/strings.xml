@@ -4,4 +4,6 @@
     <string name="string_favoritequotes">FAVORITE QUOTES</string>
     <string name="string_settings">SETTINGS</string>
     <string name="string_about">ABOUT</string>
+    <string name="string_about_text">Quotation Shake by\n\n Alberto y Carlos \n\n aldear@epsa.upv.es carherpi@inf.upv.es \n\n2018</string>
+
 </resources>
