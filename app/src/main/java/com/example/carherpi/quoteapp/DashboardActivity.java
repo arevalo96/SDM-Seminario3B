@@ -13,14 +13,14 @@ public class DashboardActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_dashboard);
-        ((Button)findViewById(R.id.getquotes)).setOnClickListener(listener);
-        ((Button)findViewById(R.id.)).setOnClickListener(listener);
-        ((Button)findViewById(R.id.)).setOnClickListener(listener);
-        ((Button)findViewById(R.id.)).setOnClickListener(listener);
+     //  ((Button)findViewById(R.id.getquotes)).setOnClickListener(listener);
+     //   ((Button)findViewById(R.id.)).setOnClickListener(listener);
+     //   ((Button)findViewById(R.id.)).setOnClickListener(listener);
+     //   ((Button)findViewById(R.id.)).setOnClickListener(listener);
 
     }
 
-    public void click() {
+   /* public void click() {
         Log.i("TAG","FUNCIONAAA");
 
     }
@@ -35,5 +35,6 @@ public class DashboardActivity extends AppCompatActivity {
         }
     }
 
+    */
 
 }
