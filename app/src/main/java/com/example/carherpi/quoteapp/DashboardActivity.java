@@ -30,6 +30,17 @@ public class DashboardActivity extends AppCompatActivity {
         Intent settingsIntent = new Intent(this, SettingsActivity.class);
         startActivity(settingsIntent);
     }
+    public void clickFavourite(View view) {
+        Intent favouriteIntent = new Intent(this, FavouriteActivity.class);
+        startActivity(favouriteIntent);
+    }
+
+    public void clickQuotation(View view) {
+        Intent quotationIntent = new Intent(this, QuotationActivity.class);
+        startActivity(quotationIntent);
+    }
+
+
 
 
 

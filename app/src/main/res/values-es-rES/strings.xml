@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quote App</string>
+    <string name="string_getquotes">OBTENER CITA</string>
+    <string name="string_favouritequotes">CITAS FAVORITAS</string>
+    <string name="string_settings">OPCIONES</string>
+    <string name="author_info">Informacion del Autor</string>
+    <string name="string_about_text">Hecho por   Alberto y Carlos    aldear@epsa.upv.es carherpi@inf.upv.es   2018</string>
+    <string name="username">Nombre que identifica al usuario</string>
+    <string name="insert_name">Inserta tu nombre</string>
+    <string name="select_language">Las citas se enseñaran en el idioma seleccionado</string>
+    <string name="http_method">Las solicitudes web se realizarán utilizando el método HTTP seleccionado</string>
+    <string name="refresh">"Hola%1s! Presione Actualizar para obtener una nueva cita "</string>
+    <string name="sample_quotation">Esta es una cita de muestra</string>
+    <string name="sample_author">Este es un autor de muestra</string>
+    <string name="current_user">Sin Nombre</string>
+    <string name="string_about" translatable="false">Sobre nosotros</string>
+</resources>
