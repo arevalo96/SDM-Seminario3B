@@ -1,7 +1,25 @@
 <resources>
-    <string name="app_name">Quote App</string>
+    <string name="app_name" translatable="false">Quote App</string>
     <string name="string_getquotes">GET QUOTES</string>
-    <string name="string_favoritequotes">FAVORITE QUOTES</string>
+    <string name="string_favouritequotes">FAVOURITE QUOTES</string>
     <string name="string_settings">SETTINGS</string>
     <string name="string_about">ABOUT</string>
+
+    <string name="string_about_text">Quotation Shake by\n\n Alberto y Carlos \n\n aldear@epsa.upv.es carherpi@inf.upv.es \n\n2018</string>
+
+    <string name="username">Name that identifies the user</string>
+    <string name="insert_name">Insert your name</string>
+    <string name="select_language">Quotations will be received in the selected language</string>
+    <string name="http_method">Web requests will be performed using the selected HTTP method </string>
+    <string name="get" translatable="false">GET</string>
+    <string name="post" translatable="false">POST</string>
+
+    <string name="author_info">Author info</string>
+
+    <string name="refresh">Hello%1s! Press Refresh to get a new quotation</string>
+    <string name="sample_quotation">This is a sample quotation</string>
+    <string name="sample_author">This is a sample author</string>
+
+    <string name="current_user">Nameless One</string>
+
 </resources>

@@ -16,6 +16,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".AboutActivity" />
+        <activity
+            android:name=".SettingsActivity"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity android:name=".FavouriteActivity" />
+        <activity android:name=".QuotationActivity"></activity>
     </application>
 
 </manifest>
